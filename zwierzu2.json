@@ -1,0 +1,21 @@
+{
+  "id": "zwierzu",
+  "version": "5.51.123",
+  "slots": [],
+  "parameters": [
+    {
+      "name": "content",
+      "type": {
+        "name": "STRING"
+      },
+      "description": "Markdown formatted text1",
+      "required": true
+    }
+  ],
+  "nameRequired": false,
+  "title": "zwierz0",
+  "description": "Testing only.",
+  "icon": "data:image/svg+xml;utf8,<svg id=\"Layer_1\" data-name=\"Layer 1\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 80 56\"><title>align-left</title><path d=\"M12,28H84a4,4,0,0,0,0-8H12A4,4,0,0,0,12,28Zm0,16H68a4,4,0,0,0,0-8H12A4,4,0,0,0,12,44Zm72,8H12a4,4,0,0,0,0,8H84A4,4,0,0,0,84,52ZM68,68H12a4,4,0,0,0,0,8H68A4,4,0,0,0,68,68Z\" transform=\"translate(-8 -20)\"/></svg>",
+  "domain": "Allegro",
+  "category": "Debug"
+}
