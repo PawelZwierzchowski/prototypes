@@ -12,7 +12,7 @@
       "required": true
     },
     {
-      "name": "content",
+      "name": "content1",
       "type": {
         "name": "STRING"
       },
